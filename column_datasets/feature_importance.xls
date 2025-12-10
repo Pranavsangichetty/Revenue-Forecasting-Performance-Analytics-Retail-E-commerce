@@ -1,0 +1,11 @@
+Feature,Importance
+revenue_lag_1,0.37
+revenue_lag_2,0.21
+marketing_spend,0.15
+is_festive_season,0.09
+discount_rate,0.07
+orders,0.05
+revenue_lag_3,0.04
+revenue_rolling_3m,0.02
+month_num,0.01
+year,0.01

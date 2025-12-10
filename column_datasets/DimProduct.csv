@@ -1,0 +1,13 @@
+ProductID,ProductName,CategoryID,CategoryName,Brand,BasePrice,CostMargin
+P001,Smartphone A1,CAT1,Electronics,BrandX,15000,0.65
+P002,Smartphone B2,CAT1,Electronics,BrandY,22000,0.68
+P003,Laptop L1,CAT1,Electronics,BrandZ,55000,0.7
+P004,Bluetooth Speaker S1,CAT1,Electronics,BrandA,3000,0.6
+P005,Smartwatch W1,CAT2,Wearables,BrandX,6000,0.62
+P006,Fitness Band F1,CAT2,Wearables,BrandY,2500,0.6
+P007,Microwave M1,CAT3,Home Appliances,BrandH,12000,0.66
+P008,Air Conditioner AC1,CAT3,Home Appliances,BrandH,35000,0.7
+P009,Refrigerator R1,CAT3,Home Appliances,BrandC,28000,0.68
+P010,Backpack B1,CAT4,Accessories,BrandB,1500,0.55
+P011,Phone Case PC1,CAT4,Accessories,BrandB,500,0.5
+P012,Earphones E1,CAT4,Accessories,BrandA,1200,0.58
